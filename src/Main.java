@@ -37,11 +37,11 @@ public class Main {
         }
 
         // Задание №4
-        for (int i = 0; i <=2; i++) {
+        for (int i = 0; i <= 2; i++) {
             if (i % 2 != 0) {
                 System.out.println(numbers[i]);
             } else {
-                System.out.println(numbers[i]+3);
+                System.out.println(numbers[i] + 3);
 
             }
         }
